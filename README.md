@@ -53,8 +53,8 @@ The **Scientific Innovation Acceleration & Scaling Act (ASAI)** establishes a ne
 
 ## DOI
 
-[Gallegos, Lucas. *Scientific Innovation Acceleration & Scaling Act (ASAI)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.XXXXX)  
-*(Replace XXXXX with your DOI)*
+[Gallegos, Lucas. *Scientific Innovation Acceleration & Scaling Act (ASAI)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16729828)  
+
 
 ****
 
