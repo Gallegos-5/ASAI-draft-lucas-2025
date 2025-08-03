@@ -16,6 +16,40 @@ This act doesn’t just support innovation—it **reinvents** how public innovat
 > • **Every decision, dissent, and audit is hash-chained and public**  
 > • **First national “moonshot engine” open to all innovators—scientists, founders, students, and the public**
 ---
+## Overview
+
+The **Scientific Innovation Acceleration & Scaling Act (ASAI)** establishes a new, national agency to surface, pilot, and scale U.S. scientific breakthroughs. Any eligible person can submit. AI assists triage, blue/red teams vet ideas, and funding moves at the speed of discovery—all with radical transparency and public audit.
+
+---
+
+## What Does ASAI Do?
+
+- **Open, always-on submission:**  
+  Anyone can propose, from Nobel laureates to students—no insider-only process.
+- **AI-powered triage & transparency:**  
+  All proposals are scored, clustered, and surfaced by explainable AI with a full public trail.
+- **Milestone-driven, adversarial review:**  
+  Projects get milestone funding and must clear both blue (optimize) and red (stress test) teams.
+- **Public audit & appeal:**  
+  Every decision, dissent, and outcome is hash-chained and open for challenge or review.
+- **Open science repository:**  
+  All results, code, and data are published in a national open repository (with security/export carve-outs).
+- **Regional equity:**  
+  Consulates, academy, and partner nodes ensure reach to every state, territory, and background.
+
+---
+
+## Core Features
+
+- Public, hash-chained innovation registry (versioned and open by default)
+- Always-on submission; blue/red team adversarial review for every major project
+- Milestone-based funding and fast-lane pathways for early-career and “wild card” proposals
+- AI co-governance, human override, and public audit protocols
+- National Open Science Repository with global/public tiers
+- All content open-source under [CC-BY 4.0 License](./LICENSE)
+
+---
+
 ## Example Future Scenarios for the American Science, Audit, and Integration Act (ASAI)
 
 ---
@@ -96,38 +130,6 @@ A foreign government with a reciprocal access agreement requests ASAI data to in
 These scenarios illustrate how ASAI adapts to emergencies, fosters accountability, protects dissent, accelerates discovery, enables rollback, and democratizes innovation.
 
 With its open, auditable, and flexible structure, ASAI is built to serve public needs—and course-correct—across changing national challenges.
----
-## Overview
-
-The **Scientific Innovation Acceleration & Scaling Act (ASAI)** establishes a new, national agency to surface, pilot, and scale U.S. scientific breakthroughs. Any eligible person can submit. AI assists triage, blue/red teams vet ideas, and funding moves at the speed of discovery—all with radical transparency and public audit.
-
----
-
-## What Does ASAI Do?
-
-- **Open, always-on submission:**  
-  Anyone can propose, from Nobel laureates to students—no insider-only process.
-- **AI-powered triage & transparency:**  
-  All proposals are scored, clustered, and surfaced by explainable AI with a full public trail.
-- **Milestone-driven, adversarial review:**  
-  Projects get milestone funding and must clear both blue (optimize) and red (stress test) teams.
-- **Public audit & appeal:**  
-  Every decision, dissent, and outcome is hash-chained and open for challenge or review.
-- **Open science repository:**  
-  All results, code, and data are published in a national open repository (with security/export carve-outs).
-- **Regional equity:**  
-  Consulates, academy, and partner nodes ensure reach to every state, territory, and background.
-
----
-
-## Core Features
-
-- Public, hash-chained innovation registry (versioned and open by default)
-- Always-on submission; blue/red team adversarial review for every major project
-- Milestone-based funding and fast-lane pathways for early-career and “wild card” proposals
-- AI co-governance, human override, and public audit protocols
-- National Open Science Repository with global/public tiers
-- All content open-source under [CC-BY 4.0 License](./LICENSE)
 
 ---
 
