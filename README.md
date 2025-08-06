@@ -1,12 +1,13 @@
 # Scientific Innovation Acceleration & Scaling Act (ASAI)
 
 **A blueprint for open, AI-accelerated, adversarially reviewed U.S. science and technology innovation.**
-> ### 🚀 The Most Ambitious Federal Innovation Program Ever Proposed
+> ###  The Most Ambitious Federal Innovation Program Ever Proposed
 
-The American Science, Audit, and Integration Act (ASAI) isn’t just another science agency bill—it’s the first attempt in U.S. history to unify, accelerate, and openly audit the entire national innovation system. ASAI’s combination of AI governance, open science, phased integration, statutory rollback, and continuous public accountability sets a new global standard for government innovation.
+The American Science, Audit, and Integration Act (ASAI) is not just another science agency bill—it is the first open blueprint for unifying, accelerating, and continuously auditing America’s entire public innovation system.
 
-This act doesn’t just support innovation—it **reinvents** how public innovation is governed, scaled, and adapted over decades. If enacted, ASAI would be the most structurally ambitious federal innovation law ever written.
+Built on principles of transparency, AI-enabled governance, and perpetual public challenge, ASAI invites every citizen to propose, test, and refine breakthroughs—with statutory rollback and integration by default, and all processes subject to open audit.
 
+This Act does not merely support innovation—it **reinvents** how a nation governs and renews its own progress, generation after generation. If enacted, ASAI would be the most structurally ambitious and publicly accountable innovation law in U.S. history.
 
 ---
 > **Why it matters:**  
@@ -143,13 +144,6 @@ With its open, auditable, and flexible structure, ASAI is built to serve public 
 
 [Gallegos, Lucas. *Scientific Innovation Acceleration & Scaling Act (ASAI)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16729828)  
 
-
-****
-
-## Part of the Future America Vision Portfolio
-
-This act is part of the [Future-America-Vision](https://github.com/Gallegos-5/Future-America-Vision) portfolio—a flagship stack of open, accountable, next-generation U.S. governance reforms for perpetual innovation.
-
 ---
 
 ## Attribution
@@ -160,17 +154,10 @@ Contact: g5policyteam@gmail.com
 
 ---
 
-**Join the conversation:**  
-[Discuss the Future America Vision portfolio and this act here.](https://github.com/Gallegos-5/G5-Portfolio/discussions)
-
----
-
 ## Support This Project
 
-If you’d like to help fund open-source policy reform, you can tip the author:
-
+If you believe in this work and wish to support its continued stewardship and open development, you may do so here:
 **Venmo:** [@g5policy](https://venmo.com/g5policy)  
-*(Any amount helps keep public-interest policy moving forward!)*
 
 ---
 
